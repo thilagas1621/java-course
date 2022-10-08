@@ -1,0 +1,82 @@
+Data Structure: 
+Recursion: 
+
+Programming: Regex: 
+
+Collection: 
+Collection of Objects:
+
+Why:
+Array: 
+- In Advance
+- Unused memory
+- Continuous Memory: 
+
+Logic: Developer: 
+
+Memory Efficient
+Efficient, Easy Programming
+
+O O Programming: 
+Framework:
+classes, interfaces, underlying data structures
+
+Interface - Class - Methods: Practice: 
+
+Collections Framework: Application Programming Interface
+இடைமுகம்: 
+
+Web Frameworks: Springboot, Hibernate, Struts
+
+Community Driven: 
+
+Python: Flask, Django
+
+PHP: Wordpress, Joomla, Drupal - CMS: 
+
+Collection: 
+A collection is an object that represents a group of objects
+
+Eg. Suit case, Geometry Box
+
+Structure: 
+Collections: Easy:  Practice: 
+
+50 Classes:     Vast Area: 
+
+Throwable
+Exception
+
+Iterable - Interface
+Collection - Interface
+
+Parent Interface: 
+There is no DIRECT implementations for this interface.
+
+Sub Interfaces: 
+List, Set
+
+There are classes which implement List and Set Interfaces. 
+
+Map Interface: 
+
+Interface:  Contract
+
+Collection: Interface: Contract
+List, Set: Contract: 
+
+Collection: List, Set
+
+List: 
+Duplicate elements[objects] are allowed
+Insertion Order is maintained. 
+Eg. GroceryList
+
+
+Set: 
+Duplicate elements[objects] are not allowed
+Insertion Order is not maintained. 
+Eg. Playing Cards
+
+
+ArrayList, LinkedList:
